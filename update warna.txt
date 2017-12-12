@@ -1,0 +1,74 @@
+UPDATE MasterTipeMotor SET WARNA='ABU-ABU' where Warna = 'ABU - ABU'
+UPDATE MasterTipeMotor SET WARNA='ABU-ABU' where Warna = 'ABU ABU'
+
+
+
+UPDATE MasterTipeMotor SET WARNA='BIRU HITAM' where Warna = 'BIRU - HITAM'
+UPDATE MasterTipeMotor SET WARNA='BIRU PERAK' where Warna = 'BIRU - PERAK'
+UPDATE MasterTipeMotor SET WARNA='BIRU PUTIH' where Warna = 'BIRU - PUTIH'
+
+
+
+
+UPDATE MasterTipeMotor SET WARNA='HITAM MERAH' where Warna = 'BLACK-RED'
+UPDATE MasterTipeMotor SET WARNA='BIRU HITAM' where Warna = 'BR-HTM'
+
+UPDATE MasterTipeMotor SET WARNA='BIRU HITAM' where Warna = 'COKLAT PUTIH'
+UPDATE MasterTipeMotor SET WARNA='BIRU HITAM' where Warna = 'EMAS'
+UPDATE MasterTipeMotor SET WARNA='EMAS' where Warna = 'GOLD'
+
+UPDATE MasterTipeMotor SET WARNA='HIJAU TOSCA' where Warna = 'HIJAU - TOSCA'
+
+UPDATE MasterTipeMotor SET WARNA='HIJAU PUTIH' where Warna = 'HIJAU-PUTIH'
+
+UPDATE MasterTipeMotor SET WARNA='HITAM COKLAT' where Warna = 'HITAM - COKLAT'
+UPDATE MasterTipeMotor SET WARNA='HITAM HIJAU' where Warna = 'HITAM - HIJAU'
+UPDATE MasterTipeMotor SET WARNA='HITAM KUNING' where Warna = 'HITAM - KUNING'
+UPDATE MasterTipeMotor SET WARNA='HITAM MERAH' where Warna = 'HITAM - MERAH'
+UPDATE MasterTipeMotor SET WARNA='HITAM ORANGE' where Warna = 'HITAM - ORANGE'
+UPDATE MasterTipeMotor SET WARNA='HITAM PERAK' where Warna = 'HITAM - PERAK'
+UPDATE MasterTipeMotor SET WARNA='HITAM PUTIH' where Warna = 'HITAM - PUTIH'
+
+
+
+
+
+
+UPDATE MasterTipeMotor SET WARNA='HITAM PERAK' where Warna = 'HITAM SILVER'
+UPDATE MasterTipeMotor SET WARNA='HITAM BIRU' where Warna = 'HITAM-BIRU'
+UPDATE MasterTipeMotor SET WARNA='HITAM MERAH' where Warna = 'HITAM-MERAH'
+UPDATE MasterTipeMotor SET WARNA='HITAM METALIK' where Warna = 'HITAM-METALIK'
+UPDATE MasterTipeMotor SET WARNA='HITAM PERAK' where Warna = 'HITAM-PERAK'
+UPDATE MasterTipeMotor SET WARNA='HITAM HIJAU' where Warna = 'HTM-HIJAU'
+UPDATE MasterTipeMotor SET WARNA='HITAM MERAH' where Warna = 'HTM-MRH'
+UPDATE MasterTipeMotor SET WARNA='HITAM ORANGE' where Warna = 'HTM-ORG'
+UPDATE MasterTipeMotor SET WARNA='KUNING HITAM' where Warna = 'KNG-HTM'
+
+
+UPDATE MasterTipeMotor SET WARNA='MERAH HITAM' where Warna = 'MERAH - HITAM'
+UPDATE MasterTipeMotor SET WARNA='MERAH MARUN' where Warna = 'MERAH - MARUN'
+UPDATE MasterTipeMotor SET WARNA='MERAH MUDA' where Warna = 'MERAH - MUDA'
+UPDATE MasterTipeMotor SET WARNA='MERAH PERAK' where Warna = 'MERAH - PERAK'
+UPDATE MasterTipeMotor SET WARNA='MERAH MARUN' where Warna = 'MERAH -MARUN'
+
+
+
+
+UPDATE MasterTipeMotor SET WARNA='MERAH MUDA' where Warna = 'MERAH- MUDA'
+UPDATE MasterTipeMotor SET WARNA='MERAH HITAM' where Warna = 'MERAH-HITAM'
+UPDATE MasterTipeMotor SET WARNA='MERAH MARUN' where Warna = 'MERAH-MARUN'
+UPDATE MasterTipeMotor SET WARNA='MERAH PERAK' where Warna = 'MERAH-PERAK'
+UPDATE MasterTipeMotor SET WARNA='MERAH HITAM' where Warna = 'MRH-HTM'
+
+
+UPDATE MasterTipeMotor SET WARNA='PERAK HITAM' where Warna = 'PERAK-HITAM'
+
+UPDATE MasterTipeMotor SET WARNA='PUTIH HITAM' where Warna = 'PUTIH - HITAM'
+
+
+
+UPDATE MasterTipeMotor SET WARNA='PUTIH HITAM' where Warna = 'PUTIH-HITAM'
+UPDATE MasterTipeMotor SET WARNA='PUTIH MERAH' where Warna = 'PUTIH-MERAH'
+UPDATE MasterTipeMotor SET WARNA='PERAK' where Warna = 'SILVER'
+
+UPDATE MasterTipeMotor SET WARNA='UNGU' where Warna = 'UNGGU'
